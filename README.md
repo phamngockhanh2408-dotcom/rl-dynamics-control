@@ -28,7 +28,7 @@ To train a 2D bipedal robot to walk forward while maintaining torso stability an
 ### Result (Demo)
 *The agent achieved a stable walking gait after 500,000 timesteps.*
 
-[VIDEO WALKER2D]
+https://github.com/phamngockhanh2408-dotcom/rl-dynamics-control/blob/main/Walker%202D.mp4
 
 ---
 
@@ -44,7 +44,7 @@ To balance a double inverted pendulum on a cart. This is a classic **underactuat
 ### Result (Demo)
 *The agent successfully balances the pendulum indefinitely.*
 
-[LINK VIDEO CON LẮC ]
+https://github.com/phamngockhanh2408-dotcom/rl-dynamics-control/blob/main/DoublePendulum.mp4
 
 ---
 
